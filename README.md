@@ -1,2 +1,2 @@
-ut-otium
+UT Otium
 ========
