@@ -1,0 +1,6 @@
+[Public]
+Object=(Class=Class,MetaClass=Engine.Mutator,Name=Otium.MutOtium,"Otium")
+
+[MutOtium]
+FriendlyName="Otium"
+Description="Der Mutator erhöht die Gesundheit bis zu einem Wert von 400."
